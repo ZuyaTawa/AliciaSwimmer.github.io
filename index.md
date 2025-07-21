@@ -14,7 +14,6 @@
 #### Here are the ways you can contact me:
 - [![Gmail](https://img.icons8.com/?size=20&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:aliciaswimmer@gmail.com)
 - [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/aliciaswimmer/)
-&nbsp;
 - [![GitHub](https://img.icons8.com/?size=20&id=RHLuYrY4GjUv&format=png&color=000000)](https://zuyatawa.github.io/AliciaSwimmer.github.io/)
 
 

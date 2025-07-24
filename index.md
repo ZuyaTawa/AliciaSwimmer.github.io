@@ -16,5 +16,5 @@
 - [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/aliciaswimmer/)
 - [![GitHub](https://img.icons8.com/?size=20&id=RHLuYrY4GjUv&format=png&color=000000)](https://zuyatawa.github.io/AliciaSwimmer.github.io/)
 
-<embed type="text/html" src="img/rosebudpineridgerez.html" width="600" height="600">
+<embed type="text/html" src="img/rosebudpineridgerez.html" width="1000" height="600">
 
